@@ -1,2 +1,2 @@
-#Front Mentor Tip Calculator
+# Front Mentor Tip Calculator
 
