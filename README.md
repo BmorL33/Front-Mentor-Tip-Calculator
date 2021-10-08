@@ -1,2 +1,2 @@
-# tip.cal.pt2
+#Front Mentor Tip Calculator
 
